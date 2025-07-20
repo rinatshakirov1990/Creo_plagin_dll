@@ -1,0 +1,6 @@
+name       pt_install_test
+startup    dll
+exec_file  C:\creo_test\ProTOOLKITInstall\ProTOOLKITInstall\ProTOOLKITInstall\pt_inst_test.dll
+text_dir   C:\creo_test\ProTOOLKITInstall\ProTOOLKITInstall\text
+end
+

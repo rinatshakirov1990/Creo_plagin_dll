@@ -1,0 +1,12 @@
+*.dll
+*.lib
+*.exp
+*.obj
+*.suo
+*.user
+*.vc.db
+*.VC.opendb
+*.pdb
+Debug/
+Release/
+x64/
